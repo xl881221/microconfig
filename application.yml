@@ -7,3 +7,9 @@ spring:
   profiles: dev
   application:
       name: microconfig-test-dev
+
+---
+spring:
+  profiles: hahaha
+  application:
+      name: microconfig-test-hahaha
